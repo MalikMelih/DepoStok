@@ -1,3 +1,5 @@
+# DepoStok Mobil Envanter Yönetimi
+
 Anlık olarak envanterdeki cihaz ve ürünleri görüntülemek, işlem yapabilmek için geliştirilmiştir.
 
 Stok ve envanter kontrollerinin sağlanması, yeni stok girişlerinin yapılabilmektedir.
